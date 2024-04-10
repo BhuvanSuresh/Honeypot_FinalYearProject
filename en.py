@@ -155,7 +155,7 @@ def encrypt_images_in_directory(directory_path, password):
 
 # Example usage
 if __name__ == "__main__":
-    input_folder_path = "C:\\Users\\Bhuvan Suresh\\Desktop\\Honeypot_win64\\New folder (2)"  # Replace "folder_path" with the path to your folder
+    input_folder_path = "C:\\Users\\Bhuvan Suresh\\Desktop\\Honeypot\\New folder (5)"  # Replace "folder_path" with the path to your folder
     password = "YourPasswordHere"  # Replace with your password
 
     encrypt_images_in_directory(input_folder_path, password)
